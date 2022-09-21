@@ -45,9 +45,6 @@ public class NumbersToLetters {
             //gegevens uitprinten
 
 
-
-
-
         }
         System.out.println("U heeft gekozen om te stoppen.");
     }
