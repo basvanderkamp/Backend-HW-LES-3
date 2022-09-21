@@ -40,9 +40,6 @@ public class NumbersToLetters {
             } else {
                 System.out.println(ongeldig);
             }
-            //input van de user krijgen en gebruiken
-
-            //gegevens uitprinten
 
 
         }
